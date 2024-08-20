@@ -30,3 +30,14 @@
     max-width: 120px;
     text-align: center;
 }
+
+@media (max-width: 480px) {
+    
+    .parties-container{
+        align-items: center;
+        justify-content: center;
+    }
+    .parties-container .btn-secondary{
+        margin:0 8rem ;
+    }
+}

@@ -63,10 +63,10 @@ const CreateParty = () => {
 
       if (res.status === 201) {
         navigate('/');
-        showToast(res.data.msg);
+        useToast(res.data.msg);
       }
     } catch (error) {
-      showToast(error.response?.data?.msg || 'An error occurred', 'error');
+      useToast(error.response?.data?.msg || 'An error occurred', 'error');
     }
   };
 

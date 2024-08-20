@@ -14,3 +14,13 @@
 #navbar ul {
     align-items: center;
 }
+
+
+@media (max-width: 480px) {
+    #navbar ul {
+        align-items: center;
+        max-width: 270px;
+        font-size: 0.9rem;
+        margin-top: 1rem;
+    }
+}

@@ -98,3 +98,27 @@
     font-size: 1.2rem;
 }
 
+@media (max-width: 480px) {
+    .services-container{
+        display: flex;
+        margin: 0 2rem;
+        gap: 4.5rem;
+    }
+    .services-container .service img{
+        width: 120px;
+    }
+    .services-container .service p{
+        display: flex;
+        text-align: center;
+        justify-self: center;
+    }
+    .services-container .service .checkbox-container p{
+        display: flex;
+        font-size: 0.7rem;
+    }
+    .form-page .btn {
+        max-width: 150px;
+        margin-top: 1rem;
+    }
+    
+}
