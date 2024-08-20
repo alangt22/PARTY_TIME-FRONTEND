@@ -10,17 +10,9 @@ Matheus Battisti - Hora de codar
 **Party Time** é uma aplicação full stack projetada para facilitar a organização de festas e eventos. Com uma interface amigável e recursos robustos, o projeto permite que os usuários planejem e gerenciem eventos de maneira eficiente. Este projeto é desenvolvido utilizando uma arquitetura de tecnologia moderna, combinando um front-end interativo com uma back-end
 
 ## Tecnologias Utilizadas
-- **Front-end**: React.js
-  
-  Utiliza React.js para construir uma interface de usuário dinâmica e responsiva. A biblioteca permite uma experiência interativa e fluida para o usuário, facilitando a criação e visualização de eventos.
-
-- **Back-end**: Node.js e Express
-
-   O servidor é construído com Node.js e Express, oferecendo uma API robusta para a gestão de dados e a lógica do aplicativo. Essa combinação garante um desempenho rápido e uma arquitetura escalável.
-
-- **Banco de Dados**: MongoDB
-
-  O MongoDB é utilizado para armazenar e gerenciar os dados dos eventos e dos usuários. Sua estrutura flexível permite um gerenciamento eficiente de dados não estruturados e um desempenho robusto.
+- **Front-end:** React.js
+- **Back-end:** Node.js e Express
+- **Banco de Dados:** MongoDB
 
 ## Funcionalidades
 
@@ -42,7 +34,7 @@ O **Party Time** está disponível online e pode ser acessado diretamente atrav�
 
 - **Front-end:** https://partytime-curso.netlify.app/
 - **Back-end API:** https://partytime-backend-production.up.railway.app/api/
-
+- **Back-end Repositório:** https://github.com/alangt22/PARTY_TIME-BACKEND
 
 ## 📦 Tecnologias usadas:
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
